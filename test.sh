@@ -1,5 +1,12 @@
 #! /usr/bin/python
 
+<<<<<<< HEAD
+from datetime import date
+d1 = date.today()
+print(d1)
+print(d1.month, d1.day, d1.year)
+print(d1.weekday())
+=======
 import multiprocessing
 
 def print_cube(num):
@@ -20,3 +27,4 @@ if __name__ == "__main__":
 
 	print("Done!")
 
+>>>>>>> 7a1d16e768f4a950341ae9820abfaf0a73749c98
