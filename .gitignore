@@ -1,4 +1,4 @@
 *.py
 dir
-
+.doc
 welcome/
